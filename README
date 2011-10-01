@@ -1,1 +1,12 @@
-El presente repositorio es un manual para usar Python, se ha usado la version 2.7.1 y Fedora 15 como SO.
+Curso de Python
+===============
+
+Curso de Python dirigido a entusiastas que deseen aprender de este maravilloso lenguaje, se iran liberando/corrigiendo las sesiones durante el tiempo, cualquier observacion o recomendacion hacerla a <jfabian@computer.org>.
+
+Caracteristicas Tecnicas
+========================
+- Desarrollado en un entorno Linux (Fedora 15) usando la version 2.7.1 de Python
+
+Autor
+=====
+Jesus Fabian Cubas, estudiante de Ingenieria de Sistemas de la Universidad Nacional de Ingenieria (UNI), cualquier consulta a <jfabian@computer.org>
