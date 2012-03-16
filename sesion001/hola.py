@@ -4,3 +4,6 @@
 print "Hola Mundo"
 print ''' Hola
 Mundo '''
+print ''' Esto es un parrafo
+con varias lineas
+que termina aqui'''

@@ -1,17 +1,17 @@
 #!/usr/bin/python
 #Autor: Jesus Fabian Cubas <jfabian@computer.org>
 
-#suma
+print "suma"
 print 2+3
-#resta
+print "resta"
 print 1-2
-#multiplicacion
+print "multiplicacion"
 print 2*5
-#exponente
+print "exponente"
 print 2 ** 5
-#division
+print "division"
 print 7.0/3
-#division entera (cociente)
+print "division entera (cociente)"
 print 7//3
-#modulo (resto)
+print "modulo (resto)"
 print 7%3
